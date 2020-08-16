@@ -183,8 +183,8 @@ margin : 0;
 .lft_hd img {
 float : left;
 margin-right : 30px;
-margin-top : 19px;
-width : 76px;
+margin-top : 4px;
+width : 130px;
 }
 #pricing_sec {
 padding : 70px 0;
@@ -345,7 +345,7 @@ vertical-align : middle;
 width : 100%;
 }
 #slider_sec {
-background-image : url("../img/bg002.jpg");
+background-image : url("../img/Sectors\ Page.jpg");
 background-position : center center;
 background-repeat : no-repeat;
 background-size : 100% 100%;
