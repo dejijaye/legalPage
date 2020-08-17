@@ -160,7 +160,8 @@ background-position : center center;
 background-size : cover;
 min-height : 500px;
 }
-#abt_sec {
+#abt_sec{
+/* background-image : url("../img/Strict\ Attorneys\ Profile\ About\ us.jpg"); */
 padding : 70px 0;
 }
 .happy_use {
@@ -345,6 +346,7 @@ vertical-align : middle;
 width : 100%;
 }
 #slider_sec {
+margin-top: 90px;
 background-image : url("../img/Sectors\ Page.jpg");
 background-position : center center;
 background-repeat : no-repeat;
